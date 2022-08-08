@@ -1,8 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-
- // } Driver Code Ends
 class Solution{
   public:
     //Complete this function
@@ -17,9 +14,7 @@ class Solution{
        return hash; 
     }
 };
-
 // { Driver Code Starts.
-
 int main() {
 	int t;
 	cin>>t;
@@ -27,12 +22,9 @@ int main() {
 	{
 	    int hashSize;
 	    cin>>hashSize;
-	    
-	    
 	    int sizeOfArray;
 	    cin>>sizeOfArray;
 	    int arr[sizeOfArray];
-	    
 	    for(int i=0;i<sizeOfArray;i++)
 	    cin>>arr[i];
 	    Solution obj;
@@ -51,10 +43,7 @@ int main() {
 	            cout<<hashTable[i][hashTable[i].size()-1];
 	            cout<<endl;
 	        }
-	    }
-	    
-	    
-	    
+	    }  
 	}
 	return 0;
 };
