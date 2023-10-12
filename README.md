@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Developer <br>📚 I'm currently learning B.tech Final Year in Information Technology <br>🎯 Aspiring SDE</p>
+<p align="left">✨ Full Stack Developer Python and Java<br>📚 I'm currently learning B.tech Final Year in Information Technology <br>🎯 Aspiring SDE</p>
 
 ###
 
