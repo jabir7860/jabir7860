@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Developer Python and Java<br>📚 I'm currently Pursuing B.tech Final Year in Information Technology(2020-2024)<br></p>
+<p align="left">✨ Full Stack Developer    Machine Learning     Data Structures and Algorithms<br>📚 I'm currently Pursuing B.tech Final Year in Information Technology(2020-2024)<br></p>
 
 ###
 
