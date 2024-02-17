@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohaammad Jabir and I'm a Aspiring Software Developer</p>
+<p align="left">My name is Mohaammad Jabir</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Full Stack Developer Python and Java<br>📚 I'm currently learning B.tech Final Year in Information Technology <br>🎯</p>
+<p align="left">✨ Full Stack Developer Python and Java<br>📚 I'm currently learning B.tech Final Year in Information Technology <br></p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with : C++,Python.</h2>
 
 ###
 
