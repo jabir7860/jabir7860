@@ -1,29 +1,17 @@
+<h1 align="center">Hi there 👋, I'm Mohammad Jabir</h1>
+<h3 align="center">Full StackDeveloper| Dealing with MERN STACK | Aspiring Software Developer </h3>
+- 🌱 I’m currently learning **MERN STACK,DSA**
 
+- 💬 Ask me about **HTML5,CSS,JS,React,Node,MySQL**
 
-<h1 align="center">Hi there 👋, I'm MOhammad Jabir</h1>
-<h3 align="center">Full StackDeveloper| Dealing with MERN STACK</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethmcr&label=Profile%20views&color=0e75b6&style=flat" alt="praneethmcr" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **MERN STACK, React Native, DSA**
-
-- 💬 Ask me about **PHP, Node.js, Express.js, MongoDB, MySQL**
-
-- 📫 How to reach me **praneeth_mcr@srkrec.edu.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rwq7BZQj2eXwlYuSHmBWVDRPPprq3_MJ/view?usp=sharing](https://drive.google.com/file/d/1rwq7BZQj2eXwlYuSHmBWVDRPPprq3_MJ/view?usp=sharing)
-
+- 📫 How to reach me **mdjabirndd@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khspraneeth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khspraneeth" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saipraneeth800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saipraneeth800" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saipraneethkamb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saipraneethkamb1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saipraneeth_kambhampati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saipraneeth_kambhampati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saipraneethkambhampati800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saipraneethkambhampati800" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdjabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khspraneeth" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jabir7860" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saipraneeth800" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mohammad211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saipraneethkamb1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jabir7860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saipraneeth_kambhampati" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdjabir786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saipraneethkambhampati800" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
