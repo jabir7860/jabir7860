@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Jabir</h1>
-<h3 align="center">Full StackDeveloper| Dealing with MERN STACK | Aspiring Software Developer </h3>
-- 🌱 I’m currently learning **MERN STACK,DSA**
+<h3 align="center">JABIR</h3>
+- 🌱 I’m currently learning **DSA,AI,Development**
 
-- 💬 Ask me about **HTML5,CSS,JS,React,Node,MySQL**
+- 💬 Ask me about **Machine Learning,AI,Development**
 
 - 📫 How to reach me **mdjabirndd@gmail.com**
 <h3 align="left">Connect with me:</h3>
