@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Jabir</h1>
 <h3 align="center">JABIR</h3>
-- 🌱 I’m currently learning **DSA,AI,Development**
-
-- 💬 Ask me about **Machine Learning,AI,Development**
-
+- Data Structures and Algorithms,Problem Solving.
+- Full Stack Development 
+- System Design
 - 📫 How to reach me **mdjabirndd@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
