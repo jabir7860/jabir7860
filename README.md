@@ -2,7 +2,7 @@
 <h3 align="center">JABIR</h3>
 - Data Structures and Algorithms,Problem Solving.
 - Full Stack Development 
-- System Design
+- AIML
 - 📫 How to reach me **mdjabirndd@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
